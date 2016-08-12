@@ -1,0 +1,30 @@
+.bg-image{
+    background-image: url(../img/header.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 20%;
+}
+
+.bgred{
+    background-color: #F05F40;
+}
+
+
+.fontred{
+    color: #F05F40;
+}
+
+.fontwhite{
+    color:white;
+}
+
+.btn{
+    border-radius: 20%;
+    color: white;
+}
+
+.navbar-white{
+    background-color: white;
+    color: #F05F40;
+}
